@@ -1,0 +1,8 @@
+/*--menu item color-*/
+.nav-link-mod a{
+    color: black;
+}
+/*--menu item  hover color-*/
+.nav-link-mod a:hover{
+	color: #e76f82;
+}
