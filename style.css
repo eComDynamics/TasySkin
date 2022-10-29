@@ -6,3 +6,7 @@
 .nav-link-mod a:hover{
 	color: #e76f82;
 }
+
+.nav-link-mod a:visited{
+	color: #000000;
+}
